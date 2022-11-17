@@ -1,3 +1,3 @@
 # Screenshots
-![Screenshot](screenshots/Screenshot_20221117-225241.jpg)
-![Screenshot](screenshots/Screenshot_20221117-225501.jpg)
+![Screenshot](Screenshot_20221117-225241.jpg)
+![Screenshot](Screenshot_20221117-225501.jpg)
