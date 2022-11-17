@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Output
 
-![Output](Flutter_VideoPlayer.mp4)
+![Output](Flutter_VideoPlayer.gif)
